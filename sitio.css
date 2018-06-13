@@ -1,0 +1,11 @@
+.playa {
+	background-image: url(imagen/jk.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+.poema {
+	color:white;
+	font-family: 'Lobster', cursive;
+	font-size: 20px;	
+}
